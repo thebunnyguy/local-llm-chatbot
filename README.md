@@ -6,15 +6,15 @@ This project uses [Ollama](https://ollama.com) to run large language models (lik
 
 ---
 
-## 🚀 What This Project Does
+## What This Project Does
 
-- 🧠 Loads local LLMs like `llama3` using Ollama
-- 💬 Interactive chat UI using Streamlit
-- 🔒 No cloud, no API keys — 100% private and offline
+-  Loads local LLMs like `llama3` using Ollama
+-  Interactive chat UI using Streamlit
+-  No cloud, no API keys - Very private
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 Make sure Python 3.8+ is installed. Then:
 
@@ -31,7 +31,7 @@ ollama pull llama3
 
 ---
 
-## 🛠️ How to Run
+## Run
 
 1. Clone this repo (or copy files)
 2. Create and activate a virtual environment (recommended):
@@ -68,25 +68,16 @@ local-llm-chatbot/
 
 ---
 
-## ✨ Preview
-
-![Screenshot](https://via.placeholder.com/600x300?text=Chatbot+UI+Preview)
-
-(*Add your own screenshot if you want – looks pro!🔥*)
-
----
-
-## 📍 Credits
 
 Built by **Manu K**  
-Drop a ⭐ if this helped you or fork it to add more features like:
-- 🔁 Streaming responses
-- 🎭 Persona-switching bots
-- 🧠 Memory / context windows
+Drop a like if this helped you or fork it to add more features like:
+-  Streaming responses
+-  Persona-switching bots
+-  Memory / context windows
 
 ---
 
-## 💬 Chat With Me
+## Chat With Me
 
 Want to collab, ask something, or roast this bot?  
 [LinkedIn](https://www.linkedin.com/in/manu-kedarasetti-b7a02112a)
